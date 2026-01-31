@@ -127,10 +127,6 @@
 
         <pluginManagement>
             <plugins>
-                <plugin>
-    <artifactId>maven-war-plugin</artifactId>
-    <version>3.3.2</version>
-</plugin>
             </plugins>
         </pluginManagement>
         <extensions>
